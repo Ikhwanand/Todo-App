@@ -1,0 +1,27 @@
+# Python and Django files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Database files
+db.sqlite3
+
+# IDE and editor files
+.vscode/
+.idea/
+*.iml
+
+# Virtual environment files
+venv/
+env/
+
+# Static files (assuming you're using collectstatic)
+todo_app/static/todo_app/
+
+# Media files (assuming you're using a media directory)
+media/
+
+# Other
+*.log
+*.tmp
